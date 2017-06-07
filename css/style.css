@@ -1,0 +1,54 @@
+.customJumboBG{
+  background-image: URL("img/airlines.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: #eceeef;
+  padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+#hoofdtitel {
+  font-weight: 500;
+}
+
+#titelHome {
+  font-weight: 400;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 40px;
+  background-color: #f5f5f5;
+}
+
+.footerTXT {
+  padding-top: 10px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+body {
+  font-family: "-apple-system","system-ui","BlinkMacSystemFont","Segoe UI","Roboto","Helvetica Neue","Arial","sans-serif";
+}
+
+table {
+    border-collapse: collapse;
+    width: 75%;
+}
+
+td, th {
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+    padding: 2px;
+}
+
+tr:hover {
+    background-color: #e0f7ff;
+}
